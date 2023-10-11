@@ -1,0 +1,4587 @@
+[
+    {
+        "001": "ADANA",
+        "vergiDaireleri": [
+            {
+                "kod": "001251",
+                "vdadi": "5 Ocak Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "001252",
+                "vdadi": "Yüreğir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "001253",
+                "vdadi": "Seyhan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "001254",
+                "vdadi": "Ziyapaşa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "001255",
+                "vdadi": "Çukurova Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "001201",
+                "vdadi": "Ceyhan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "001203",
+                "vdadi": "Kozan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "001205",
+                "vdadi": "Karataş Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "001103",
+                "vdadi": "Feke Malmüdürlüğü"
+            },
+            {
+                "kod": "001105",
+                "vdadi": "Karaisalı Malmüdürlüğü"
+            },
+            {
+                "kod": "001109",
+                "vdadi": "Pozantı Malmüdürlüğü"
+            },
+            {
+                "kod": "001110",
+                "vdadi": "Saimbeyli Malmüdürlüğü"
+            },
+            {
+                "kod": "001111",
+                "vdadi": "Tufanbeyli Malmüdürlüğü"
+            },
+            {
+                "kod": "001112",
+                "vdadi": "Yumurtalık Malmüdürlüğü"
+            },
+            {
+                "kod": "001114",
+                "vdadi": "Aladağ Malmüdürlüğü"
+            },
+            {
+                "kod": "001115",
+                "vdadi": "İmamoğlu Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "002": "ADIYAMAN",
+        "vergiDaireleri": [
+            {
+                "kod": "002260",
+                "vdadi": "Adıyaman Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "002261",
+                "vdadi": "Kahta Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "002101",
+                "vdadi": "Besni Malmüdürlüğü"
+            },
+            {
+                "kod": "002102",
+                "vdadi": "Çelikhan Malmüdürlüğü"
+            },
+            {
+                "kod": "002103",
+                "vdadi": "Gerger Malmüdürlüğü"
+            },
+            {
+                "kod": "002104",
+                "vdadi": "Gölbaşı Malmüdürlüğü"
+            },
+            {
+                "kod": "002106",
+                "vdadi": "Samsat Malmüdürlüğü"
+            },
+            {
+                "kod": "002107",
+                "vdadi": "Sincik Malmüdürlüğü"
+            },
+            {
+                "kod": "002108",
+                "vdadi": "Tut Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "003": "AFYONKARAHİSAR",
+        "vergiDaireleri": [
+            {
+                "kod": "003201",
+                "vdadi": "Tınaztepe Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "003280",
+                "vdadi": "Kocatepe Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "003260",
+                "vdadi": "Dinar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "003261",
+                "vdadi": "Bolvadin Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "003262",
+                "vdadi": "Emirdağ Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "003263",
+                "vdadi": "Sandıklı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "003264",
+                "vdadi": "İscehisar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "003202",
+                "vdadi": "Çay Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "003103",
+                "vdadi": "Dazkırı Malmüdürlüğü"
+            },
+            {
+                "kod": "003105",
+                "vdadi": "İhsaniye Malmüdürlüğü"
+            },
+            {
+                "kod": "003107",
+                "vdadi": "Sinanpaşa Malmüdürlüğü"
+            },
+            {
+                "kod": "003108",
+                "vdadi": "Sultandağı Malmüdürlüğü"
+            },
+            {
+                "kod": "003109",
+                "vdadi": "Şuhut Malmüdürlüğü"
+            },
+            {
+                "kod": "003111",
+                "vdadi": "Başmakçı Malmüdürlüğü"
+            },
+            {
+                "kod": "003112",
+                "vdadi": "Bayat Malmüdürlüğü"
+            },
+            {
+                "kod": "003114",
+                "vdadi": "Çobanlar Malmüdürlüğü"
+            },
+            {
+                "kod": "003115",
+                "vdadi": "Evciler Malmüdürlüğü"
+            },
+            {
+                "kod": "003116",
+                "vdadi": "Hocalar Malmüdürlüğü"
+            },
+            {
+                "kod": "003117",
+                "vdadi": "Kızılören Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "004": "AĞRI",
+        "vergiDaireleri": [
+            {
+                "kod": "004260",
+                "vdadi": "Ağrı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "004261",
+                "vdadi": "Doğubeyazıt Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "004262",
+                "vdadi": "Patnos Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "004101",
+                "vdadi": "Diyadin Malmüdürlüğü"
+            },
+            {
+                "kod": "004103",
+                "vdadi": "Eleşkirt Malmüdürlüğü"
+            },
+            {
+                "kod": "004104",
+                "vdadi": "Hamur Malmüdürlüğü"
+            },
+            {
+                "kod": "004106",
+                "vdadi": "Taşlıçay Malmüdürlüğü"
+            },
+            {
+                "kod": "004107",
+                "vdadi": "Tutak Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "005": "AMASYA",
+        "vergiDaireleri": [
+            {
+                "kod": "005260",
+                "vdadi": "Amasya Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "005261",
+                "vdadi": "Merzifon Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "005262",
+                "vdadi": "Gümüşhacıköy Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "005263",
+                "vdadi": "Taşova Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "005264",
+                "vdadi": "Suluova Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "005101",
+                "vdadi": "Göynücek Malmüdürlüğü"
+            },
+            {
+                "kod": "005106",
+                "vdadi": "Hamamözü Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "006": "ANKARA",
+        "vergiDaireleri": [
+            {
+                "kod": "006280",
+                "vdadi": "Anadolu İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006281",
+                "vdadi": "Ankara İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006282",
+                "vdadi": "Harçlar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006283",
+                "vdadi": "Ankara Kurumlar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006284",
+                "vdadi": "İvedik Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006252",
+                "vdadi": "Veraset ve İntikal Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006253",
+                "vdadi": "Kavaklıdere Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006254",
+                "vdadi": "Maltepe Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006255",
+                "vdadi": "Yenimahalle Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006257",
+                "vdadi": "Çankaya Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006258",
+                "vdadi": "Kızılbey Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006259",
+                "vdadi": "Mithatpaşa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006260",
+                "vdadi": "Ulus Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006261",
+                "vdadi": "Yıldırım Beyazıt Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006262",
+                "vdadi": "Seğmenler Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006264",
+                "vdadi": "Dikimevi Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006265",
+                "vdadi": "Doğanbey Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006266",
+                "vdadi": "Yeğenbey Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006268",
+                "vdadi": "Hitit Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006269",
+                "vdadi": "Yahya Galip Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006270",
+                "vdadi": "Muhammet Karagüzel Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006271",
+                "vdadi": "Ostim Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006272",
+                "vdadi": "Gölbaşı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006273",
+                "vdadi": "Sincan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006274",
+                "vdadi": "Dışkapı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006275",
+                "vdadi": "Etimesgut Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006276",
+                "vdadi": "Başkent Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006277",
+                "vdadi": "Cumhuriyet Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006278",
+                "vdadi": "Keçiören Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006279",
+                "vdadi": "Kahramankazan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006205",
+                "vdadi": "Polatlı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006207",
+                "vdadi": "Şereflikoçhisar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006209",
+                "vdadi": "Beypazarı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006211",
+                "vdadi": "Çubuk Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006213",
+                "vdadi": "Haymana Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006215",
+                "vdadi": "Elmadağ Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "006102",
+                "vdadi": "Ayaş Malmüdürlüğü"
+            },
+            {
+                "kod": "006103",
+                "vdadi": "Balâ Malmüdürlüğü"
+            },
+            {
+                "kod": "006106",
+                "vdadi": "Çamlıdere Malmüdürlüğü"
+            },
+            {
+                "kod": "006110",
+                "vdadi": "Güdül Malmüdürlüğü"
+            },
+            {
+                "kod": "006112",
+                "vdadi": "Kalecik Malmüdürlüğü"
+            },
+            {
+                "kod": "006115",
+                "vdadi": "Kızılcahamam Malmüdürlüğü"
+            },
+            {
+                "kod": "006117",
+                "vdadi": "Nallıhan Malmüdürlüğü"
+            },
+            {
+                "kod": "006125",
+                "vdadi": "Akyurt Malmüdürlüğü"
+            },
+            {
+                "kod": "006127",
+                "vdadi": "Evren Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "007": "ANTALYA",
+        "vergiDaireleri": [
+            {
+                "kod": "007251",
+                "vdadi": "Üçkapılar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "007252",
+                "vdadi": "Kalekapı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "007253",
+                "vdadi": "Muratpaşa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "007254",
+                "vdadi": "Düden Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "007255",
+                "vdadi": "Antalya Kurumlar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "007256",
+                "vdadi": "Antalya İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "007257",
+                "vdadi": "Korkuteli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "007201",
+                "vdadi": "Alanya Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "007202",
+                "vdadi": "Serik Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "007203",
+                "vdadi": "Manavgat Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "007204",
+                "vdadi": "Elmalı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "007205",
+                "vdadi": "Kemer Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "007206",
+                "vdadi": "Kumluca Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "007101",
+                "vdadi": "Akseki Malmüdürlüğü"
+            },
+            {
+                "kod": "007104",
+                "vdadi": "Finike Malmüdürlüğü"
+            },
+            {
+                "kod": "007105",
+                "vdadi": "Gazipaşa Malmüdürlüğü"
+            },
+            {
+                "kod": "007106",
+                "vdadi": "Gündoğmuş Malmüdürlüğü"
+            },
+            {
+                "kod": "007107",
+                "vdadi": "Kaş Malmüdürlüğü"
+            },
+            {
+                "kod": "007112",
+                "vdadi": "Demre Malmüdürlüğü"
+            },
+            {
+                "kod": "007113",
+                "vdadi": "İbradı Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "008": "ARTVİN",
+        "vergiDaireleri": [
+            {
+                "kod": "008260",
+                "vdadi": "Artvin Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "008261",
+                "vdadi": "Hopa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "008262",
+                "vdadi": "Arhavi Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "008101",
+                "vdadi": "Ardanuç Malmüdürlüğü"
+            },
+            {
+                "kod": "008103",
+                "vdadi": "Borçka Malmüdürlüğü"
+            },
+            {
+                "kod": "008105",
+                "vdadi": "Şavşat Malmüdürlüğü"
+            },
+            {
+                "kod": "008106",
+                "vdadi": "Yusufeli Malmüdürlüğü"
+            },
+            {
+                "kod": "008107",
+                "vdadi": "Murgul Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "009": "AYDIN",
+        "vergiDaireleri": [
+            {
+                "kod": "009201",
+                "vdadi": "Efeler Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "009280",
+                "vdadi": "Güzelhisar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "009260",
+                "vdadi": "Nazilli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "009261",
+                "vdadi": "Söke Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "009262",
+                "vdadi": "Çine Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "009263",
+                "vdadi": "Germencik Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "009265",
+                "vdadi": "Kuşadası Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "009281",
+                "vdadi": "Didim Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "009101",
+                "vdadi": "Bozdoğan Malmüdürlüğü"
+            },
+            {
+                "kod": "009104",
+                "vdadi": "Karacasu Malmüdürlüğü"
+            },
+            {
+                "kod": "009105",
+                "vdadi": "Koçarlı Malmüdürlüğü"
+            },
+            {
+                "kod": "009107",
+                "vdadi": "Kuyucak Malmüdürlüğü"
+            },
+            {
+                "kod": "009110",
+                "vdadi": "Sultanhisar Malmüdürlüğü"
+            },
+            {
+                "kod": "009111",
+                "vdadi": "Yenipazar Malmüdürlüğü"
+            },
+            {
+                "kod": "009112",
+                "vdadi": "Buharkent Malmüdürlüğü"
+            },
+            {
+                "kod": "009113",
+                "vdadi": "İncirliova Malmüdürlüğü"
+            },
+            {
+                "kod": "009114",
+                "vdadi": "Karpuzlu Malmüdürlüğü"
+            },
+            {
+                "kod": "009115",
+                "vdadi": "Köşk Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "010": "BALIKESİR",
+        "vergiDaireleri": [
+            {
+                "kod": "010201",
+                "vdadi": "Karesi Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "010280",
+                "vdadi": "Kurtdereli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "010260",
+                "vdadi": "Ayvalık Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "010261",
+                "vdadi": "Bandırma Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "010262",
+                "vdadi": "Burhaniye Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "010263",
+                "vdadi": "Edremit Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "010264",
+                "vdadi": "Gönen Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "010265",
+                "vdadi": "Susurluk Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "010266",
+                "vdadi": "Erdek Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "010267",
+                "vdadi": "Bigadiç Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "010268",
+                "vdadi": "Sındırgı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "010269",
+                "vdadi": "Dursunbey Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "010102",
+                "vdadi": "Balya Malmüdürlüğü"
+            },
+            {
+                "kod": "010110",
+                "vdadi": "Havran Malmüdürlüğü"
+            },
+            {
+                "kod": "010111",
+                "vdadi": "İvrindi Malmüdürlüğü"
+            },
+            {
+                "kod": "010112",
+                "vdadi": "Kepsut Malmüdürlüğü"
+            },
+            {
+                "kod": "010113",
+                "vdadi": "Manyas Malmüdürlüğü"
+            },
+            {
+                "kod": "010114",
+                "vdadi": "Savaştepe Malmüdürlüğü"
+            },
+            {
+                "kod": "010117",
+                "vdadi": "Marmara Malmüdürlüğü"
+            },
+            {
+                "kod": "010118",
+                "vdadi": "Gömeç Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "011": "BİLECİK",
+        "vergiDaireleri": [
+            {
+                "kod": "011260",
+                "vdadi": "Bilecik Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "011261",
+                "vdadi": "Bozüyük Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "011102",
+                "vdadi": "Gölpazarı Malmüdürlüğü"
+            },
+            {
+                "kod": "011103",
+                "vdadi": "Osmaneli Malmüdürlüğü"
+            },
+            {
+                "kod": "011104",
+                "vdadi": "Pazaryeri Malmüdürlüğü"
+            },
+            {
+                "kod": "011105",
+                "vdadi": "Söğüt Malmüdürlüğü"
+            },
+            {
+                "kod": "011106",
+                "vdadi": "Yenipazar Malmüdürlüğü"
+            },
+            {
+                "kod": "011107",
+                "vdadi": "İnhisar Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "012": "BİNGÖL",
+        "vergiDaireleri": [
+            {
+                "kod": "012260",
+                "vdadi": "Bingöl Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "012101",
+                "vdadi": "Genç Malmüdürlüğü"
+            },
+            {
+                "kod": "012102",
+                "vdadi": "Karlıova Malmüdürlüğü"
+            },
+            {
+                "kod": "012103",
+                "vdadi": "Kiğı Malmüdürlüğü"
+            },
+            {
+                "kod": "012104",
+                "vdadi": "Solhan Malmüdürlüğü"
+            },
+            {
+                "kod": "012105",
+                "vdadi": "Adaklı Malmüdürlüğü"
+            },
+            {
+                "kod": "012106",
+                "vdadi": "Yayladere Malmüdürlüğü"
+            },
+            {
+                "kod": "012107",
+                "vdadi": "Yedisu Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "013": "BİTLİS",
+        "vergiDaireleri": [
+            {
+                "kod": "013260",
+                "vdadi": "Bitlis Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "013261",
+                "vdadi": "Tatvan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "013101",
+                "vdadi": "Adilcevaz Malmüdürlüğü"
+            },
+            {
+                "kod": "013102",
+                "vdadi": "Ahlat Malmüdürlüğü"
+            },
+            {
+                "kod": "013103",
+                "vdadi": "Hizan Malmüdürlüğü"
+            },
+            {
+                "kod": "013104",
+                "vdadi": "Mutki Malmüdürlüğü"
+            },
+            {
+                "kod": "013106",
+                "vdadi": "Güroymak Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "014": "BOLU",
+        "vergiDaireleri": [
+            {
+                "kod": "014260",
+                "vdadi": "Bolu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "014262",
+                "vdadi": "Gerede Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "014104",
+                "vdadi": "Göynük Malmüdürlüğü"
+            },
+            {
+                "kod": "014105",
+                "vdadi": "Kıbrıscık Malmüdürlüğü"
+            },
+            {
+                "kod": "014106",
+                "vdadi": "Mengen Malmüdürlüğü"
+            },
+            {
+                "kod": "014107",
+                "vdadi": "Mudurnu Malmüdürlüğü"
+            },
+            {
+                "kod": "014108",
+                "vdadi": "Seben Malmüdürlüğü"
+            },
+            {
+                "kod": "014113",
+                "vdadi": "Dörtdivan Malmüdürlüğü"
+            },
+            {
+                "kod": "014114",
+                "vdadi": "Yeniçağa Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "015": "BURDUR",
+        "vergiDaireleri": [
+            {
+                "kod": "015260",
+                "vdadi": "Burdur Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "015261",
+                "vdadi": "Bucak Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "015101",
+                "vdadi": "Ağlasun Malmüdürlüğü"
+            },
+            {
+                "kod": "015103",
+                "vdadi": "Gölhisar Malmüdürlüğü"
+            },
+            {
+                "kod": "015104",
+                "vdadi": "Tefenni Malmüdürlüğü"
+            },
+            {
+                "kod": "015105",
+                "vdadi": "Yeşilova Malmüdürlüğü"
+            },
+            {
+                "kod": "015106",
+                "vdadi": "Karamanlı Malmüdürlüğü"
+            },
+            {
+                "kod": "015107",
+                "vdadi": "Kemer Malmüdürlüğü"
+            },
+            {
+                "kod": "015108",
+                "vdadi": "Altınyayla Malmüdürlüğü"
+            },
+            {
+                "kod": "015109",
+                "vdadi": "Çavdır Malmüdürlüğü"
+            },
+            {
+                "kod": "015110",
+                "vdadi": "Çeltikçi Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "016": "BURSA",
+        "vergiDaireleri": [
+            {
+                "kod": "016250",
+                "vdadi": "Bursa İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016251",
+                "vdadi": "Osmangazi Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016252",
+                "vdadi": "Yıldırım Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016253",
+                "vdadi": "Çekirge Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016254",
+                "vdadi": "Setbaşı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016255",
+                "vdadi": "Uludağ Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016256",
+                "vdadi": "Yeşil Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016257",
+                "vdadi": "Nilüfer Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016258",
+                "vdadi": "Ertuğrulgazi Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016259",
+                "vdadi": "Gökdere Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016260",
+                "vdadi": "Bursa Veraset ve Harçlar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016201",
+                "vdadi": "Gemlik Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016202",
+                "vdadi": "İnegöl Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016203",
+                "vdadi": "Karacabey Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016204",
+                "vdadi": "Mustafakemalpaşa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016205",
+                "vdadi": "Mudanya Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016206",
+                "vdadi": "Orhangazi Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016207",
+                "vdadi": "İznik Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016208",
+                "vdadi": "Yenişehir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "016105",
+                "vdadi": "Keles Malmüdürlüğü"
+            },
+            {
+                "kod": "016108",
+                "vdadi": "Orhaneli Malmüdürlüğü"
+            },
+            {
+                "kod": "016111",
+                "vdadi": "Harmancık Malmüdürlüğü"
+            },
+            {
+                "kod": "016112",
+                "vdadi": "Büyükorhan Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "017": "ÇANAKKALE",
+        "vergiDaireleri": [
+            {
+                "kod": "017260",
+                "vdadi": "Çanakkale Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "017261",
+                "vdadi": "Biga Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "017262",
+                "vdadi": "Çan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "017263",
+                "vdadi": "Gelibolu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "017101",
+                "vdadi": "Ayvacık Malmüdürlüğü"
+            },
+            {
+                "kod": "017102",
+                "vdadi": "Bayramiç Malmüdürlüğü"
+            },
+            {
+                "kod": "017104",
+                "vdadi": "Bozcaada Malmüdürlüğü"
+            },
+            {
+                "kod": "017106",
+                "vdadi": "Eceabat Malmüdürlüğü"
+            },
+            {
+                "kod": "017107",
+                "vdadi": "Ezine Malmüdürlüğü"
+            },
+            {
+                "kod": "017109",
+                "vdadi": "Gökçeada Malmüdürlüğü"
+            },
+            {
+                "kod": "017110",
+                "vdadi": "Lapseki Malmüdürlüğü"
+            },
+            {
+                "kod": "017111",
+                "vdadi": "Yenice Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "018": "ÇANKIRI",
+        "vergiDaireleri": [
+            {
+                "kod": "018260",
+                "vdadi": "Çankırı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "018101",
+                "vdadi": "Çerkeş Malmüdürlüğü"
+            },
+            {
+                "kod": "018102",
+                "vdadi": "Eldivan Malmüdürlüğü"
+            },
+            {
+                "kod": "018104",
+                "vdadi": "Ilgaz Malmüdürlüğü"
+            },
+            {
+                "kod": "018105",
+                "vdadi": "Kurşunlu Malmüdürlüğü"
+            },
+            {
+                "kod": "018106",
+                "vdadi": "Orta Malmüdürlüğü"
+            },
+            {
+                "kod": "018108",
+                "vdadi": "Şabanözü Malmüdürlüğü"
+            },
+            {
+                "kod": "018109",
+                "vdadi": "Yapraklı Malmüdürlüğü"
+            },
+            {
+                "kod": "018110",
+                "vdadi": "Atkaracalar Malmüdürlüğü"
+            },
+            {
+                "kod": "018111",
+                "vdadi": "Kızılırmak Malmüdürlüğü"
+            },
+            {
+                "kod": "018112",
+                "vdadi": "Bayramören Malmüdürlüğü"
+            },
+            {
+                "kod": "018113",
+                "vdadi": "Korgun Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "019": "ÇORUM",
+        "vergiDaireleri": [
+            {
+                "kod": "019260",
+                "vdadi": "Çorum Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "019261",
+                "vdadi": "Sungurlu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "019101",
+                "vdadi": "Alaca Malmüdürlüğü"
+            },
+            {
+                "kod": "019102",
+                "vdadi": "Bayat Malmüdürlüğü"
+            },
+            {
+                "kod": "019103",
+                "vdadi": "İskilip Malmüdürlüğü"
+            },
+            {
+                "kod": "019104",
+                "vdadi": "Kargı Malmüdürlüğü"
+            },
+            {
+                "kod": "019105",
+                "vdadi": "Mecitözü Malmüdürlüğü"
+            },
+            {
+                "kod": "019106",
+                "vdadi": "Ortaköy Malmüdürlüğü"
+            },
+            {
+                "kod": "019107",
+                "vdadi": "Osmancık Malmüdürlüğü"
+            },
+            {
+                "kod": "019109",
+                "vdadi": "Boğazkale Malmüdürlüğü"
+            },
+            {
+                "kod": "019110",
+                "vdadi": "Uğurludağ Malmüdürlüğü"
+            },
+            {
+                "kod": "019111",
+                "vdadi": "Dodurga Malmüdürlüğü"
+            },
+            {
+                "kod": "019112",
+                "vdadi": "Oğuzlar Malmüdürlüğü"
+            },
+            {
+                "kod": "019113",
+                "vdadi": "Laçin Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "020": "DENİZLİ",
+        "vergiDaireleri": [
+            {
+                "kod": "020201",
+                "vdadi": "Saraylar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "020202",
+                "vdadi": "Çınar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "020203",
+                "vdadi": "Gökpınar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "020250",
+                "vdadi": "Denizli İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "020280",
+                "vdadi": "Pamukkale Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "020260",
+                "vdadi": "Sarayköy Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "020261",
+                "vdadi": "Acıpayam Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "020262",
+                "vdadi": "Tavas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "020263",
+                "vdadi": "Buldan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "020264",
+                "vdadi": "Çal Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "020265",
+                "vdadi": "Çivril Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "020104",
+                "vdadi": "Çameli Malmüdürlüğü"
+            },
+            {
+                "kod": "020105",
+                "vdadi": "Çardak Malmüdürlüğü"
+            },
+            {
+                "kod": "020107",
+                "vdadi": "Güney Malmüdürlüğü"
+            },
+            {
+                "kod": "020108",
+                "vdadi": "Kale Malmüdürlüğü"
+            },
+            {
+                "kod": "020111",
+                "vdadi": "Babadağ Malmüdürlüğü"
+            },
+            {
+                "kod": "020112",
+                "vdadi": "Bekilli Malmüdürlüğü"
+            },
+            {
+                "kod": "020113",
+                "vdadi": "Honaz Malmüdürlüğü"
+            },
+            {
+                "kod": "020114",
+                "vdadi": "Serinhisar Malmüdürlüğü"
+            },
+            {
+                "kod": "020115",
+                "vdadi": "Pamukkale Malmüdürlüğü (Akköy)"
+            },
+            {
+                "kod": "020116",
+                "vdadi": "Baklan Malmüdürlüğü"
+            },
+            {
+                "kod": "020117",
+                "vdadi": "Beyağaç Malmüdürlüğü"
+            },
+            {
+                "kod": "020118",
+                "vdadi": "Bozkurt Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "021": "DİYARBAKIR",
+        "vergiDaireleri": [
+            {
+                "kod": "021251",
+                "vdadi": "Gökalp Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "021281",
+                "vdadi": "Süleyman Nazif Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "021282",
+                "vdadi": "Cahit Sıtkı Tarancı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "021283",
+                "vdadi": "Ergani Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "021284",
+                "vdadi": "Bismil Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "021102",
+                "vdadi": "Çermik Malmüdürlüğü"
+            },
+            {
+                "kod": "021103",
+                "vdadi": "Çınar Malmüdürlüğü"
+            },
+            {
+                "kod": "021104",
+                "vdadi": "Çüngüş Malmüdürlüğü"
+            },
+            {
+                "kod": "021105",
+                "vdadi": "Dicle Malmüdürlüğü"
+            },
+            {
+                "kod": "021107",
+                "vdadi": "Hani Malmüdürlüğü"
+            },
+            {
+                "kod": "021108",
+                "vdadi": "Hazro Malmüdürlüğü"
+            },
+            {
+                "kod": "021109",
+                "vdadi": "Kulp Malmüdürlüğü"
+            },
+            {
+                "kod": "021110",
+                "vdadi": "Lice Malmüdürlüğü"
+            },
+            {
+                "kod": "021111",
+                "vdadi": "Silvan Malmüdürlüğü"
+            },
+            {
+                "kod": "021112",
+                "vdadi": "Eğil Malmüdürlüğü"
+            },
+            {
+                "kod": "021113",
+                "vdadi": "Kocaköy Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "022": "EDİRNE",
+        "vergiDaireleri": [
+            {
+                "kod": "022201",
+                "vdadi": "Arda Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "022260",
+                "vdadi": "Kırkpınar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "022261",
+                "vdadi": "Keşan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "022262",
+                "vdadi": "Uzunköprü Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "022263",
+                "vdadi": "Havsa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "022264",
+                "vdadi": "İpsala Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "022101",
+                "vdadi": "Enez Malmüdürlüğü"
+            },
+            {
+                "kod": "022105",
+                "vdadi": "Lalapaşa Malmüdürlüğü"
+            },
+            {
+                "kod": "022106",
+                "vdadi": "Meriç Malmüdürlüğü"
+            },
+            {
+                "kod": "022108",
+                "vdadi": "Süloğlu Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "023": "ELAZIĞ",
+        "vergiDaireleri": [
+            {
+                "kod": "023201",
+                "vdadi": "Harput Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "023280",
+                "vdadi": "Hazar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "023101",
+                "vdadi": "Ağın Malmüdürlüğü"
+            },
+            {
+                "kod": "023102",
+                "vdadi": "Baskil Malmüdürlüğü"
+            },
+            {
+                "kod": "023103",
+                "vdadi": "Karakoçan Malmüdürlüğü"
+            },
+            {
+                "kod": "023104",
+                "vdadi": "Keban Malmüdürlüğü"
+            },
+            {
+                "kod": "023105",
+                "vdadi": "Maden Malmüdürlüğü"
+            },
+            {
+                "kod": "023106",
+                "vdadi": "Palu Malmüdürlüğü"
+            },
+            {
+                "kod": "023107",
+                "vdadi": "Sivrice Malmüdürlüğü"
+            },
+            {
+                "kod": "023108",
+                "vdadi": "Arıcak Malmüdürlüğü"
+            },
+            {
+                "kod": "023109",
+                "vdadi": "Kovancılar Malmüdürlüğü"
+            },
+            {
+                "kod": "023110",
+                "vdadi": "Alacakaya Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "024": "ERZİNCAN",
+        "vergiDaireleri": [
+            {
+                "kod": "024260",
+                "vdadi": "Fevzipaşa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "024101",
+                "vdadi": "Çayırlı Malmüdürlüğü"
+            },
+            {
+                "kod": "024102",
+                "vdadi": "İliç Malmüdürlüğü"
+            },
+            {
+                "kod": "024103",
+                "vdadi": "Kemah Malmüdürlüğü"
+            },
+            {
+                "kod": "024104",
+                "vdadi": "Kemaliye Malmüdürlüğü"
+            },
+            {
+                "kod": "024105",
+                "vdadi": "Refahiye Malmüdürlüğü"
+            },
+            {
+                "kod": "024106",
+                "vdadi": "Tercan Malmüdürlüğü"
+            },
+            {
+                "kod": "024107",
+                "vdadi": "Üzümlü Malmüdürlüğü"
+            },
+            {
+                "kod": "024108",
+                "vdadi": "Otlukbeli Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "025": "ERZURUM",
+        "vergiDaireleri": [
+            {
+                "kod": "025251",
+                "vdadi": "Aziziye Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "025280",
+                "vdadi": "Kazımkarabekir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "025101",
+                "vdadi": "Aşkale Malmüdürlüğü"
+            },
+            {
+                "kod": "025102",
+                "vdadi": "Çat Malmüdürlüğü"
+            },
+            {
+                "kod": "025103",
+                "vdadi": "Hınıs Malmüdürlüğü"
+            },
+            {
+                "kod": "025104",
+                "vdadi": "Horasan Malmüdürlüğü"
+            },
+            {
+                "kod": "025105",
+                "vdadi": "İspir Malmüdürlüğü"
+            },
+            {
+                "kod": "025106",
+                "vdadi": "Karayazı Malmüdürlüğü"
+            },
+            {
+                "kod": "025107",
+                "vdadi": "Narman Malmüdürlüğü"
+            },
+            {
+                "kod": "025108",
+                "vdadi": "Oltu Malmüdürlüğü"
+            },
+            {
+                "kod": "025109",
+                "vdadi": "Olur Malmüdürlüğü"
+            },
+            {
+                "kod": "025110",
+                "vdadi": "Pasinler Malmüdürlüğü"
+            },
+            {
+                "kod": "025111",
+                "vdadi": "Şenkaya Malmüdürlüğü"
+            },
+            {
+                "kod": "025112",
+                "vdadi": "Tekman Malmüdürlüğü"
+            },
+            {
+                "kod": "025113",
+                "vdadi": "Tortum Malmüdürlüğü"
+            },
+            {
+                "kod": "025114",
+                "vdadi": "Karaçoban Malmüdürlüğü"
+            },
+            {
+                "kod": "025115",
+                "vdadi": "Uzundere Malmüdürlüğü"
+            },
+            {
+                "kod": "025116",
+                "vdadi": "Pazaryolu Malmüdürlüğü"
+            },
+            {
+                "kod": "025117",
+                "vdadi": "Aziziye Malmüdürlüğü  (Ilıca)"
+            },
+            {
+                "kod": "025118",
+                "vdadi": "Köprüköy Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "026": "ESKİŞEHİR",
+        "vergiDaireleri": [
+            {
+                "kod": "026250",
+                "vdadi": "Eskişehir Vergi Dairesi Başkanlığı (*)"
+            },
+            {
+                "kod": "026102",
+                "vdadi": "Mahmudiye Malmüdürlüğü"
+            },
+            {
+                "kod": "026103",
+                "vdadi": "Mihalıççık Malmüdürlüğü"
+            },
+            {
+                "kod": "026104",
+                "vdadi": "Sarıcakaya Malmüdürlüğü"
+            },
+            {
+                "kod": "026105",
+                "vdadi": "Seyitgazi Malmüdürlüğü"
+            },
+            {
+                "kod": "026107",
+                "vdadi": "Alpu Malmüdürlüğü"
+            },
+            {
+                "kod": "026108",
+                "vdadi": "Beylikova Malmüdürlüğü"
+            },
+            {
+                "kod": "026109",
+                "vdadi": "İnönü Malmüdürlüğü"
+            },
+            {
+                "kod": "026110",
+                "vdadi": "Günyüzü Malmüdürlüğü"
+            },
+            {
+                "kod": "026111",
+                "vdadi": "Han Malmüdürlüğü"
+            },
+            {
+                "kod": "026112",
+                "vdadi": "Mihalgazi Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "027": "GAZİANTEP",
+        "vergiDaireleri": [
+            {
+                "kod": "027250",
+                "vdadi": "Gaziantep İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "027251",
+                "vdadi": "Suburcu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "027252",
+                "vdadi": "Şehitkâmil Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "027253",
+                "vdadi": "Şahinbey Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "027254",
+                "vdadi": "Gazikent Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "027255",
+                "vdadi": "Kozanlı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "027202",
+                "vdadi": "Nizip Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "027203",
+                "vdadi": "İslahiye Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "027101",
+                "vdadi": "Araban Malmüdürlüğü"
+            },
+            {
+                "kod": "027105",
+                "vdadi": "Oğuzeli Malmüdürlüğü"
+            },
+            {
+                "kod": "027106",
+                "vdadi": "Yavuzeli Malmüdürlüğü"
+            },
+            {
+                "kod": "027107",
+                "vdadi": "Karkamış Malmüdürlüğü"
+            },
+            {
+                "kod": "027108",
+                "vdadi": "Nurdağı Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "028": "GİRESUN",
+        "vergiDaireleri": [
+            {
+                "kod": "028260",
+                "vdadi": "Giresun Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "028261",
+                "vdadi": "Bulancak Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "028101",
+                "vdadi": "Alucra Malmüdürlüğü"
+            },
+            {
+                "kod": "028103",
+                "vdadi": "Dereli Malmüdürlüğü"
+            },
+            {
+                "kod": "028104",
+                "vdadi": "Espiye Malmüdürlüğü"
+            },
+            {
+                "kod": "028105",
+                "vdadi": "Eynesil Malmüdürlüğü"
+            },
+            {
+                "kod": "028106",
+                "vdadi": "Görele Malmüdürlüğü"
+            },
+            {
+                "kod": "028107",
+                "vdadi": "Keşap Malmüdürlüğü"
+            },
+            {
+                "kod": "028108",
+                "vdadi": "Şebinkarahisar Malmüdürlüğü"
+            },
+            {
+                "kod": "028109",
+                "vdadi": "Tirebolu Malmüdürlüğü"
+            },
+            {
+                "kod": "028110",
+                "vdadi": "Piraziz Malmüdürlüğü"
+            },
+            {
+                "kod": "028111",
+                "vdadi": "Yağlıdere Malmüdürlüğü"
+            },
+            {
+                "kod": "028112",
+                "vdadi": "Çanakçı Malmüdürlüğü"
+            },
+            {
+                "kod": "028113",
+                "vdadi": "Güce Malmüdürlüğü"
+            },
+            {
+                "kod": "028114",
+                "vdadi": "Çamoluk Malmüdürlüğü"
+            },
+            {
+                "kod": "028115",
+                "vdadi": "Doğankent Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "029": "GÜMÜŞHANE",
+        "vergiDaireleri": [
+            {
+                "kod": "029260",
+                "vdadi": "Gümüşhane Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "029102",
+                "vdadi": "Kelkit Malmüdürlüğü"
+            },
+            {
+                "kod": "029103",
+                "vdadi": "Şiran Malmüdürlüğü"
+            },
+            {
+                "kod": "029104",
+                "vdadi": "Torul Malmüdürlüğü"
+            },
+            {
+                "kod": "029107",
+                "vdadi": "Köse Malmüdürlüğü"
+            },
+            {
+                "kod": "029108",
+                "vdadi": "Kürtün Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "030": "HAKKARİ",
+        "vergiDaireleri": [
+            {
+                "kod": "030260",
+                "vdadi": "Hakkari Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "030261",
+                "vdadi": "Yüksekova  Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "030102",
+                "vdadi": "Çukurca Malmüdürlüğü"
+            },
+            {
+                "kod": "030103",
+                "vdadi": "Şemdinli Malmüdürlüğü"
+            },
+            {
+                "kod": "030104",
+                "vdadi": "Derecik Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "031": "HATAY",
+        "vergiDaireleri": [
+            {
+                "kod": "031201",
+                "vdadi": "23 Temmuz Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "031203",
+                "vdadi": "Antakya Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "031280",
+                "vdadi": "Şükrükanatlı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "031202",
+                "vdadi": "Sahil Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "031281",
+                "vdadi": "Akdeniz Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "031290",
+                "vdadi": "Asım Gündüz Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "031260",
+                "vdadi": "Dörtyol  Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "031261",
+                "vdadi": "Kırıkhan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "031262",
+                "vdadi": "Reyhanlı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "031263",
+                "vdadi": "Samandağ Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "031101",
+                "vdadi": "Altınözü Malmüdürlüğü"
+            },
+            {
+                "kod": "031103",
+                "vdadi": "Hassa Malmüdürlüğü"
+            },
+            {
+                "kod": "031108",
+                "vdadi": "Yayladağı Malmüdürlüğü"
+            },
+            {
+                "kod": "031109",
+                "vdadi": "Erzin Malmüdürlüğü"
+            },
+            {
+                "kod": "031110",
+                "vdadi": "Belen Malmüdürlüğü"
+            },
+            {
+                "kod": "031111",
+                "vdadi": "Kumlu Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "032": "ISPARTA",
+        "vergiDaireleri": [
+            {
+                "kod": "032201",
+                "vdadi": "Davraz Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "032260",
+                "vdadi": "Kaymakkapı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "032261",
+                "vdadi": "Eğirdir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "032262",
+                "vdadi": "Yalvaç Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "032101",
+                "vdadi": "Atabey Malmüdürlüğü"
+            },
+            {
+                "kod": "032103",
+                "vdadi": "Gelendost Malmüdürlüğü"
+            },
+            {
+                "kod": "032104",
+                "vdadi": "Keçiborlu Malmüdürlüğü"
+            },
+            {
+                "kod": "032105",
+                "vdadi": "Senirkent Malmüdürlüğü"
+            },
+            {
+                "kod": "032106",
+                "vdadi": "Sütçüler Malmüdürlüğü"
+            },
+            {
+                "kod": "032107",
+                "vdadi": "Şarkikaraağaç Malmüdürlüğü"
+            },
+            {
+                "kod": "032108",
+                "vdadi": "Uluborlu Malmüdürlüğü"
+            },
+            {
+                "kod": "032110",
+                "vdadi": "Aksu Malmüdürlüğü"
+            },
+            {
+                "kod": "032111",
+                "vdadi": "Gönen Malmüdürlüğü"
+            },
+            {
+                "kod": "032112",
+                "vdadi": "Yenişarbademli Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "033": "MERSİN",
+        "vergiDaireleri": [
+            {
+                "kod": "033250",
+                "vdadi": "İstiklâl Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "033252",
+                "vdadi": "Uray Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "033254",
+                "vdadi": "Liman Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "033255",
+                "vdadi": "Toros Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "033256",
+                "vdadi": "Mersin İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "033201",
+                "vdadi": "Erdemli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "033202",
+                "vdadi": "Silifke Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "033203",
+                "vdadi": "Anamur Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "033204",
+                "vdadi": "Kızılmurat Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "033205",
+                "vdadi": "Şehitkerim Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "033103",
+                "vdadi": "Gülnar Malmüdürlüğü"
+            },
+            {
+                "kod": "033104",
+                "vdadi": "Mut Malmüdürlüğü"
+            },
+            {
+                "kod": "033107",
+                "vdadi": "Aydıncık Malmüdürlüğü"
+            },
+            {
+                "kod": "033108",
+                "vdadi": "Bozyazı Malmüdürlüğü"
+            },
+            {
+                "kod": "033109",
+                "vdadi": "Çamlıyayla Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "034": "İSTANBUL",
+        "vergiDaireleri": [
+            {
+                "kod": "034220",
+                "vdadi": "Haliç İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034221",
+                "vdadi": "Vatan İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034222",
+                "vdadi": "Çamlıca İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034223",
+                "vdadi": "Alemdağ Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034224",
+                "vdadi": "Yenikapı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034230",
+                "vdadi": "Büyük Mükellefler Vergi Dairesi Başkanlığı (*)"
+            },
+            {
+                "kod": "034231",
+                "vdadi": "Boğaziçi Kurumlar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034232",
+                "vdadi": "Marmara Kurumlar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034234",
+                "vdadi": "Davutpaşa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034235",
+                "vdadi": "Esenler Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034236",
+                "vdadi": "Fatih Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034237",
+                "vdadi": "Küçükköy Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034239",
+                "vdadi": "Merter Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034242",
+                "vdadi": "Sultanbeyli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034244",
+                "vdadi": "Anadolu Kurumlar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034245",
+                "vdadi": "Tuzla Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034246",
+                "vdadi": "Kozyatağı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034247",
+                "vdadi": "Maslak Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034248",
+                "vdadi": "Zincirlikuyu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034249",
+                "vdadi": "İkitelli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034251",
+                "vdadi": "Beşiktaş Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034252",
+                "vdadi": "Ümraniye Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034253",
+                "vdadi": "Yeditepe Veraset ve Harçlar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034254",
+                "vdadi": "Kasımpaşa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034255",
+                "vdadi": "Erenköy Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034256",
+                "vdadi": "Hisar Veraset ve Harçlar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034257",
+                "vdadi": "Tuna Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034258",
+                "vdadi": "Rıhtım Veraset ve Harçlar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034259",
+                "vdadi": "Güngören Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034260",
+                "vdadi": "Kocasinan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034261",
+                "vdadi": "Güneşli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034262",
+                "vdadi": "Küçükyalı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034263",
+                "vdadi": "Pendik Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034264",
+                "vdadi": "Bayrampaşa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034265",
+                "vdadi": "Beyazıt Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034266",
+                "vdadi": "Beyoğlu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034269",
+                "vdadi": "Gaziosmanpaşa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034270",
+                "vdadi": "Göztepe Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034271",
+                "vdadi": "Hocapaşa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034272",
+                "vdadi": "Kadıköy Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034273",
+                "vdadi": "Kocamustafapaşa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034274",
+                "vdadi": "Mecidiyeköy Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034276",
+                "vdadi": "Şişli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034277",
+                "vdadi": "Üsküdar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034278",
+                "vdadi": "Halkalı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034279",
+                "vdadi": "Kağıthane Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034280",
+                "vdadi": "Zeytinburnu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034281",
+                "vdadi": "Beykoz Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034283",
+                "vdadi": "Sarıyer Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034284",
+                "vdadi": "Bakırköy Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034285",
+                "vdadi": "Kartal Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034287",
+                "vdadi": "Nakil Vasıtaları Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034288",
+                "vdadi": "Sarıgazi Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034291",
+                "vdadi": "Atışalanı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034292",
+                "vdadi": "Yakacık Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034293",
+                "vdadi": "Yenibosna Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034294",
+                "vdadi": "Avcılar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034295",
+                "vdadi": "Adalar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034296",
+                "vdadi": "Küçükçekmece Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034297",
+                "vdadi": "Beylikdüzü Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034298",
+                "vdadi": "Esenyurt Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034203",
+                "vdadi": "Silivri Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034204",
+                "vdadi": "Büyükçekmece Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "034205",
+                "vdadi": "Şile Vergi Dairesi Müdürlüğü"
+            }
+        ]
+    },
+    {
+        "035": "İZMİR",
+        "vergiDaireleri": [
+            {
+                "kod": "035250",
+                "vdadi": "İzmir İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035251",
+                "vdadi": "9 Eylül Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035252",
+                "vdadi": "Yamanlar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035254",
+                "vdadi": "Belkahve Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035256",
+                "vdadi": "Karşıyaka Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035257",
+                "vdadi": "Kemeraltı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035258",
+                "vdadi": "Konak Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035259",
+                "vdadi": "Kordon Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035260",
+                "vdadi": "Şirinyer Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035261",
+                "vdadi": "Kadifekale Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035262",
+                "vdadi": "Taşıtlar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035263",
+                "vdadi": "Hasan Tahsin Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035264",
+                "vdadi": "Bornova Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035266",
+                "vdadi": "Balçova Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035267",
+                "vdadi": "Gaziemir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035268",
+                "vdadi": "Ege Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035269",
+                "vdadi": "Çiğli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035270",
+                "vdadi": "Çakabey İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035201",
+                "vdadi": "Bayındır Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035202",
+                "vdadi": "Bergama Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035203",
+                "vdadi": "Menemen Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035204",
+                "vdadi": "Ödemiş Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035205",
+                "vdadi": "Tire Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035206",
+                "vdadi": "Torbalı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035207",
+                "vdadi": "Kemalpaşa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035208",
+                "vdadi": "Urla Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035209",
+                "vdadi": "Selçuk Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035210",
+                "vdadi": "Kınık Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035211",
+                "vdadi": "Kiraz Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035212",
+                "vdadi": "Çeşme Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035213",
+                "vdadi": "Aliağa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035215",
+                "vdadi": "Menderes Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "035105",
+                "vdadi": "Dikili Malmüdürlüğü"
+            },
+            {
+                "kod": "035106",
+                "vdadi": "Foça Malmüdürlüğü"
+            },
+            {
+                "kod": "035107",
+                "vdadi": "Karaburun Malmüdürlüğü"
+            },
+            {
+                "kod": "035114",
+                "vdadi": "Seferihisar Malmüdürlüğü"
+            },
+            {
+                "kod": "035120",
+                "vdadi": "Beydağ Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "036": "KARS",
+        "vergiDaireleri": [
+            {
+                "kod": "036260",
+                "vdadi": "Kars Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "036103",
+                "vdadi": "Arpaçay Malmüdürlüğü"
+            },
+            {
+                "kod": "036105",
+                "vdadi": "Digor Malmüdürlüğü"
+            },
+            {
+                "kod": "036109",
+                "vdadi": "Kağızman Malmüdürlüğü"
+            },
+            {
+                "kod": "036111",
+                "vdadi": "Sarıkamış Malmüdürlüğü"
+            },
+            {
+                "kod": "036112",
+                "vdadi": "Selim Malmüdürlüğü"
+            },
+            {
+                "kod": "036113",
+                "vdadi": "Susuz Malmüdürlüğü"
+            },
+            {
+                "kod": "036115",
+                "vdadi": "Akyaka Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "037": "KASTAMONU",
+        "vergiDaireleri": [
+            {
+                "kod": "037260",
+                "vdadi": "Kastamonu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "037261",
+                "vdadi": "Tosya Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "037262",
+                "vdadi": "Taşköprü Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "037101",
+                "vdadi": "Araç Malmüdürlüğü"
+            },
+            {
+                "kod": "037102",
+                "vdadi": "Azdavay Malmüdürlüğü"
+            },
+            {
+                "kod": "037103",
+                "vdadi": "Bozkurt Malmüdürlüğü"
+            },
+            {
+                "kod": "037104",
+                "vdadi": "Cide Malmüdürlüğü"
+            },
+            {
+                "kod": "037105",
+                "vdadi": "Çatalzeytin Malmüdürlüğü"
+            },
+            {
+                "kod": "037106",
+                "vdadi": "Daday Malmüdürlüğü"
+            },
+            {
+                "kod": "037107",
+                "vdadi": "Devrekani Malmüdürlüğü"
+            },
+            {
+                "kod": "037108",
+                "vdadi": "İnebolu Malmüdürlüğü"
+            },
+            {
+                "kod": "037109",
+                "vdadi": "Küre Malmüdürlüğü"
+            },
+            {
+                "kod": "037112",
+                "vdadi": "Abana Malmüdürlüğü"
+            },
+            {
+                "kod": "037113",
+                "vdadi": "İhsangazi Malmüdürlüğü"
+            },
+            {
+                "kod": "037114",
+                "vdadi": "Pınarbaşı Malmüdürlüğü"
+            },
+            {
+                "kod": "037115",
+                "vdadi": "Şenpazar Malmüdürlüğü"
+            },
+            {
+                "kod": "037116",
+                "vdadi": "Ağlı Malmüdürlüğü"
+            },
+            {
+                "kod": "037117",
+                "vdadi": "Doğanyurt Malmüdürlüğü"
+            },
+            {
+                "kod": "037118",
+                "vdadi": "Hanönü Malmüdürlüğü"
+            },
+            {
+                "kod": "037119",
+                "vdadi": "Seydiler Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "038": "KAYSERİ",
+        "vergiDaireleri": [
+            {
+                "kod": "038250",
+                "vdadi": "Kayseri İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "038251",
+                "vdadi": "Mimar Sinan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "038252",
+                "vdadi": "Erciyes Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "038253",
+                "vdadi": "Kaleönü Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "038254",
+                "vdadi": "Gevher Nesibe Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "038201",
+                "vdadi": "Develi Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "038202",
+                "vdadi": "Pınarbaşı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "038203",
+                "vdadi": "Bünyan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "038103",
+                "vdadi": "Felahiye Malmüdürlüğü"
+            },
+            {
+                "kod": "038104",
+                "vdadi": "İncesu Malmüdürlüğü"
+            },
+            {
+                "kod": "038106",
+                "vdadi": "Sarıoğlan Malmüdürlüğü"
+            },
+            {
+                "kod": "038107",
+                "vdadi": "Sarız Malmüdürlüğü"
+            },
+            {
+                "kod": "038108",
+                "vdadi": "Tomarza Malmüdürlüğü"
+            },
+            {
+                "kod": "038109",
+                "vdadi": "Yahyalı Malmüdürlüğü"
+            },
+            {
+                "kod": "038110",
+                "vdadi": "Yeşilhisar Malmüdürlüğü"
+            },
+            {
+                "kod": "038111",
+                "vdadi": "Akkışla Malmüdürlüğü"
+            },
+            {
+                "kod": "038113",
+                "vdadi": "Hacılar Malmüdürlüğü"
+            },
+            {
+                "kod": "038114",
+                "vdadi": "Özvatan Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "039": "KIRKLARELİ",
+        "vergiDaireleri": [
+            {
+                "kod": "039260",
+                "vdadi": "Kırklareli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "039261",
+                "vdadi": "Lüleburgaz Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "039262",
+                "vdadi": "Babaeski Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "039102",
+                "vdadi": "Demirköy Malmüdürlüğü"
+            },
+            {
+                "kod": "039103",
+                "vdadi": "Kofçaz Malmüdürlüğü"
+            },
+            {
+                "kod": "039105",
+                "vdadi": "Pehlivanköy Malmüdürlüğü"
+            },
+            {
+                "kod": "039106",
+                "vdadi": "Pınarhisar Malmüdürlüğü"
+            },
+            {
+                "kod": "039107",
+                "vdadi": "Vize Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "040": "KIRŞEHİR",
+        "vergiDaireleri": [
+            {
+                "kod": "040260",
+                "vdadi": "Kırşehir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "040261",
+                "vdadi": "Kaman Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "040101",
+                "vdadi": "Çiçekdağı Malmüdürlüğü"
+            },
+            {
+                "kod": "040103",
+                "vdadi": "Mucur Malmüdürlüğü"
+            },
+            {
+                "kod": "040104",
+                "vdadi": "Akpınar Malmüdürlüğü"
+            },
+            {
+                "kod": "040105",
+                "vdadi": "Akçakent Malmüdürlüğü"
+            },
+            {
+                "kod": "040106",
+                "vdadi": "Boztepe Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "041": "KOCAELİ",
+        "vergiDaireleri": [
+            {
+                "kod": "041250",
+                "vdadi": "Kocaeli İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "041252",
+                "vdadi": "Tepecik Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "041253",
+                "vdadi": "Alemdar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "041254",
+                "vdadi": "Gebze İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "041290",
+                "vdadi": "Acısu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "041202",
+                "vdadi": "Uluçınar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "041203",
+                "vdadi": "İlyasbey Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "041204",
+                "vdadi": "Gölcük Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "041205",
+                "vdadi": "Karamürsel Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "041206",
+                "vdadi": "Körfez Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "041207",
+                "vdadi": "Derince Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "041103",
+                "vdadi": "Kandıra Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "042": "KONYA",
+        "vergiDaireleri": [
+            {
+                "kod": "042250",
+                "vdadi": "Konya İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042251",
+                "vdadi": "Selçuk Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042252",
+                "vdadi": "Mevlana Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042253",
+                "vdadi": "Meram Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042254",
+                "vdadi": "Alaaddin Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042201",
+                "vdadi": "Akşehir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042202",
+                "vdadi": "Ereğli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042204",
+                "vdadi": "Beyşehir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042205",
+                "vdadi": "Cihanbeyli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042206",
+                "vdadi": "Çumra Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042207",
+                "vdadi": "Seydişehir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042208",
+                "vdadi": "Ilgın Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042209",
+                "vdadi": "Kulu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042210",
+                "vdadi": "Karapınar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "042103",
+                "vdadi": "Bozkır Malmüdürlüğü"
+            },
+            {
+                "kod": "042106",
+                "vdadi": "Doğanhisar Malmüdürlüğü"
+            },
+            {
+                "kod": "042109",
+                "vdadi": "Hadim Malmüdürlüğü"
+            },
+            {
+                "kod": "042111",
+                "vdadi": "Kadınhanı Malmüdürlüğü"
+            },
+            {
+                "kod": "042115",
+                "vdadi": "Sarayönü Malmüdürlüğü"
+            },
+            {
+                "kod": "042117",
+                "vdadi": "Yunak Malmüdürlüğü"
+            },
+            {
+                "kod": "042118",
+                "vdadi": "Akören Malmüdürlüğü"
+            },
+            {
+                "kod": "042119",
+                "vdadi": "Altınekin Malmüdürlüğü"
+            },
+            {
+                "kod": "042121",
+                "vdadi": "Derebucak Malmüdürlüğü"
+            },
+            {
+                "kod": "042122",
+                "vdadi": "Hüyük Malmüdürlüğü"
+            },
+            {
+                "kod": "042123",
+                "vdadi": "Taşkent Malmüdürlüğü"
+            },
+            {
+                "kod": "042124",
+                "vdadi": "Ahırlı Malmüdürlüğü"
+            },
+            {
+                "kod": "042125",
+                "vdadi": "Çeltik Malmüdürlüğü"
+            },
+            {
+                "kod": "042126",
+                "vdadi": "Derbent Malmüdürlüğü"
+            },
+            {
+                "kod": "042127",
+                "vdadi": "Emirgazi Malmüdürlüğü"
+            },
+            {
+                "kod": "042128",
+                "vdadi": "Güneysınır Malmüdürlüğü"
+            },
+            {
+                "kod": "042129",
+                "vdadi": "Halkapınar Malmüdürlüğü"
+            },
+            {
+                "kod": "042130",
+                "vdadi": "Tuzlukçu Malmüdürlüğü"
+            },
+            {
+                "kod": "042131",
+                "vdadi": "Yalıhüyük Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "043": "KÜTAHYA",
+        "vergiDaireleri": [
+            {
+                "kod": "043201",
+                "vdadi": "30 Ağustos Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "043280",
+                "vdadi": "Çinili Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "043260",
+                "vdadi": "Gediz Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "043261",
+                "vdadi": "Simav Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "043262",
+                "vdadi": "Tavşanlı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "043263",
+                "vdadi": "Emet Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "043101",
+                "vdadi": "Altıntaş Malmüdürlüğü"
+            },
+            {
+                "kod": "043102",
+                "vdadi": "Domaniç Malmüdürlüğü"
+            },
+            {
+                "kod": "043107",
+                "vdadi": "Aslanapa Malmüdürlüğü"
+            },
+            {
+                "kod": "043108",
+                "vdadi": "Dumlupınar Malmüdürlüğü"
+            },
+            {
+                "kod": "043109",
+                "vdadi": "Hisarcık Malmüdürlüğü"
+            },
+            {
+                "kod": "043110",
+                "vdadi": "Şaphane Malmüdürlüğü"
+            },
+            {
+                "kod": "043111",
+                "vdadi": "Çavdarhisar Malmüdürlüğü"
+            },
+            {
+                "kod": "043112",
+                "vdadi": "Pazarlar Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "044": "MALATYA",
+        "vergiDaireleri": [
+            {
+                "kod": "044251",
+                "vdadi": "Fırat Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "044252",
+                "vdadi": "Beydağı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "044101",
+                "vdadi": "Akçadağ Malmüdürlüğü"
+            },
+            {
+                "kod": "044102",
+                "vdadi": "Arapgir Malmüdürlüğü"
+            },
+            {
+                "kod": "044103",
+                "vdadi": "Arguvan Malmüdürlüğü"
+            },
+            {
+                "kod": "044104",
+                "vdadi": "Darende Malmüdürlüğü"
+            },
+            {
+                "kod": "044105",
+                "vdadi": "Doğanşehir Malmüdürlüğü"
+            },
+            {
+                "kod": "044106",
+                "vdadi": "Hekimhan Malmüdürlüğü"
+            },
+            {
+                "kod": "044107",
+                "vdadi": "Pütürge Malmüdürlüğü"
+            },
+            {
+                "kod": "044108",
+                "vdadi": "Yeşilyurt Malmüdürlüğü"
+            },
+            {
+                "kod": "044109",
+                "vdadi": "Battalgazi Malmüdürlüğü"
+            },
+            {
+                "kod": "044110",
+                "vdadi": "Doğanyol Malmüdürlüğü"
+            },
+            {
+                "kod": "044111",
+                "vdadi": "Kale Malmüdürlüğü"
+            },
+            {
+                "kod": "044112",
+                "vdadi": "Kuluncak Malmüdürlüğü"
+            },
+            {
+                "kod": "044113",
+                "vdadi": "Yazıhan Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "045": "MANİSA",
+        "vergiDaireleri": [
+            {
+                "kod": "045250",
+                "vdadi": "Manisa İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045251",
+                "vdadi": "Şehit Cihan Güneş Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045252",
+                "vdadi": "Mesir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045201",
+                "vdadi": "Akhisar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045202",
+                "vdadi": "Alaşehir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045203",
+                "vdadi": "Demirci Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045204",
+                "vdadi": "Kırkağaç Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045205",
+                "vdadi": "Salihli Adil Oral Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045206",
+                "vdadi": "Sarıgöl Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045207",
+                "vdadi": "Saruhanlı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045208",
+                "vdadi": "Soma Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045209",
+                "vdadi": "Turgutlu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045210",
+                "vdadi": "Gördes Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045211",
+                "vdadi": "Kula Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "045110",
+                "vdadi": "Selendi Malmüdürlüğü"
+            },
+            {
+                "kod": "045113",
+                "vdadi": "Ahmetli Malmüdürlüğü"
+            },
+            {
+                "kod": "045114",
+                "vdadi": "Gölmarmara Malmüdürlüğü"
+            },
+            {
+                "kod": "045115",
+                "vdadi": "Köprübaşı Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "046": "KAHRAMANMARAŞ",
+        "vergiDaireleri": [
+            {
+                "kod": "046201",
+                "vdadi": "Aslanbey Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "046280",
+                "vdadi": "Aksu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "046260",
+                "vdadi": "Elbistan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "046261",
+                "vdadi": "Afşin Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "046262",
+                "vdadi": "Pazarcık Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "046102",
+                "vdadi": "Andırın Malmüdürlüğü"
+            },
+            {
+                "kod": "046104",
+                "vdadi": "Göksun Malmüdürlüğü"
+            },
+            {
+                "kod": "046106",
+                "vdadi": "Türkoğlu Malmüdürlüğü"
+            },
+            {
+                "kod": "046107",
+                "vdadi": "Çağlayancerit Malmüdürlüğü"
+            },
+            {
+                "kod": "046108",
+                "vdadi": "Ekinözü Malmüdürlüğü"
+            },
+            {
+                "kod": "046109",
+                "vdadi": "Nurhak Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "047": "MARDİN",
+        "vergiDaireleri": [
+            {
+                "kod": "047260",
+                "vdadi": "Mardin Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "047261",
+                "vdadi": "Kızıltepe Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "047262",
+                "vdadi": "Nusaybin Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "047102",
+                "vdadi": "Derik Malmüdürlüğü"
+            },
+            {
+                "kod": "047106",
+                "vdadi": "Mazıdağı Malmüdürlüğü"
+            },
+            {
+                "kod": "047107",
+                "vdadi": "Midyat Malmüdürlüğü"
+            },
+            {
+                "kod": "047109",
+                "vdadi": "Ömerli Malmüdürlüğü"
+            },
+            {
+                "kod": "047110",
+                "vdadi": "Savur Malmüdürlüğü"
+            },
+            {
+                "kod": "047112",
+                "vdadi": "Dargeçit Malmüdürlüğü"
+            },
+            {
+                "kod": "047113",
+                "vdadi": "Yeşilli Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "048": "MUĞLA",
+        "vergiDaireleri": [
+            {
+                "kod": "048260",
+                "vdadi": "Muğla Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "048261",
+                "vdadi": "Bodrum Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "048262",
+                "vdadi": "Fethiye Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "048263",
+                "vdadi": "Köyceğiz Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "048264",
+                "vdadi": "Milas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "048265",
+                "vdadi": "Marmaris Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "048266",
+                "vdadi": "Yatağan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "048102",
+                "vdadi": "Datça Malmüdürlüğü"
+            },
+            {
+                "kod": "048108",
+                "vdadi": "Ula Malmüdürlüğü"
+            },
+            {
+                "kod": "048109",
+                "vdadi": "Dalaman Malmüdürlüğü"
+            },
+            {
+                "kod": "048110",
+                "vdadi": "Ortaca Malmüdürlüğü"
+            },
+            {
+                "kod": "048111",
+                "vdadi": "Kavaklıdere Malmüdürlüğü"
+            },
+            {
+                "kod": "048113",
+                "vdadi": "Seydikemer Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "049": "MUŞ",
+        "vergiDaireleri": [
+            {
+                "kod": "049260",
+                "vdadi": "Muş Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "049101",
+                "vdadi": "Bulanık Malmüdürlüğü"
+            },
+            {
+                "kod": "049102",
+                "vdadi": "Malazgirt Malmüdürlüğü"
+            },
+            {
+                "kod": "049103",
+                "vdadi": "Varto Malmüdürlüğü"
+            },
+            {
+                "kod": "049104",
+                "vdadi": "Hasköy Malmüdürlüğü"
+            },
+            {
+                "kod": "049105",
+                "vdadi": "Korkut Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "050": "NEVŞEHİR",
+        "vergiDaireleri": [
+            {
+                "kod": "050260",
+                "vdadi": "Nevşehir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "050101",
+                "vdadi": "Avanos Malmüdürlüğü"
+            },
+            {
+                "kod": "050102",
+                "vdadi": "Derinkuyu Malmüdürlüğü"
+            },
+            {
+                "kod": "050103",
+                "vdadi": "Gülşehir Malmüdürlüğü"
+            },
+            {
+                "kod": "050104",
+                "vdadi": "Hacıbektaş Malmüdürlüğü"
+            },
+            {
+                "kod": "050105",
+                "vdadi": "Kozaklı Malmüdürlüğü"
+            },
+            {
+                "kod": "050106",
+                "vdadi": "Ürgüp Malmüdürlüğü"
+            },
+            {
+                "kod": "050107",
+                "vdadi": "Acıgöl Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "051": "NİĞDE",
+        "vergiDaireleri": [
+            {
+                "kod": "051260",
+                "vdadi": "Niğde Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "051262",
+                "vdadi": "Bor Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "051103",
+                "vdadi": "Çamardı Malmüdürlüğü"
+            },
+            {
+                "kod": "051105",
+                "vdadi": "Ulukışla Malmüdürlüğü"
+            },
+            {
+                "kod": "051106",
+                "vdadi": "Altunhisar Malmüdürlüğü"
+            },
+            {
+                "kod": "051107",
+                "vdadi": "Çiftlik Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "052": "ORDU",
+        "vergiDaireleri": [
+            {
+                "kod": "052201",
+                "vdadi": "Boztepe Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "052260",
+                "vdadi": "Köprübaşı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "052261",
+                "vdadi": "Fatsa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "052262",
+                "vdadi": "Ünye Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "052101",
+                "vdadi": "Akkuş Malmüdürlüğü"
+            },
+            {
+                "kod": "052102",
+                "vdadi": "Aybastı Malmüdürlüğü"
+            },
+            {
+                "kod": "052104",
+                "vdadi": "Gölköy Malmüdürlüğü"
+            },
+            {
+                "kod": "052105",
+                "vdadi": "Korgan Malmüdürlüğü"
+            },
+            {
+                "kod": "052106",
+                "vdadi": "Kumru Malmüdürlüğü"
+            },
+            {
+                "kod": "052107",
+                "vdadi": "Mesudiye Malmüdürlüğü"
+            },
+            {
+                "kod": "052108",
+                "vdadi": "Perşembe Malmüdürlüğü"
+            },
+            {
+                "kod": "052109",
+                "vdadi": "Ulubey Malmüdürlüğü"
+            },
+            {
+                "kod": "052111",
+                "vdadi": "Gülyalı Malmüdürlüğü"
+            },
+            {
+                "kod": "052112",
+                "vdadi": "Gürgentepe Malmüdürlüğü"
+            },
+            {
+                "kod": "052113",
+                "vdadi": "Çamaş Malmüdürlüğü"
+            },
+            {
+                "kod": "052114",
+                "vdadi": "Çatalpınar Malmüdürlüğü"
+            },
+            {
+                "kod": "052115",
+                "vdadi": "Çaybaşı Malmüdürlüğü"
+            },
+            {
+                "kod": "052116",
+                "vdadi": "İkizce Malmüdürlüğü"
+            },
+            {
+                "kod": "052117",
+                "vdadi": "Kabadüz Malmüdürlüğü"
+            },
+            {
+                "kod": "052118",
+                "vdadi": "Kabataş Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "053": "RİZE",
+        "vergiDaireleri": [
+            {
+                "kod": "053201",
+                "vdadi": "Kaçkar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "053260",
+                "vdadi": "Yeşilçay Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "053261",
+                "vdadi": "Çayeli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "053262",
+                "vdadi": "Pazar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "053263",
+                "vdadi": "Ardeşen Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "053102",
+                "vdadi": "Çamlıhemşin Malmüdürlüğü"
+            },
+            {
+                "kod": "053104",
+                "vdadi": "Fındıklı Malmüdürlüğü"
+            },
+            {
+                "kod": "053105",
+                "vdadi": "İkizdere Malmüdürlüğü"
+            },
+            {
+                "kod": "053106",
+                "vdadi": "Kalkandere Malmüdürlüğü"
+            },
+            {
+                "kod": "053108",
+                "vdadi": "Güneysu Malmüdürlüğü"
+            },
+            {
+                "kod": "053109",
+                "vdadi": "Derepazarı Malmüdürlüğü"
+            },
+            {
+                "kod": "053110",
+                "vdadi": "Hemşin Malmüdürlüğü"
+            },
+            {
+                "kod": "053111",
+                "vdadi": "İyidere Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "054": "SAKARYA",
+        "vergiDaireleri": [
+            {
+                "kod": "054250",
+                "vdadi": "Sakarya İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "054251",
+                "vdadi": "Gümrükönü Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "054252",
+                "vdadi": "Ali Fuat Cebesoy Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "054253",
+                "vdadi": "Sapanca Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "054201",
+                "vdadi": "Akyazı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "054202",
+                "vdadi": "Geyve Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "054203",
+                "vdadi": "Hendek Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "054204",
+                "vdadi": "Karasu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "054105",
+                "vdadi": "Kaynarca Malmüdürlüğü"
+            },
+            {
+                "kod": "054107",
+                "vdadi": "Kocaali Malmüdürlüğü"
+            },
+            {
+                "kod": "054108",
+                "vdadi": "Pamukova Malmüdürlüğü"
+            },
+            {
+                "kod": "054109",
+                "vdadi": "Taraklı Malmüdürlüğü"
+            },
+            {
+                "kod": "054111",
+                "vdadi": "Karapürçek Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "055": "SAMSUN",
+        "vergiDaireleri": [
+            {
+                "kod": "055251",
+                "vdadi": "19 Mayıs Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "055252",
+                "vdadi": "Gaziler Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "055290",
+                "vdadi": "Zafer Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "055202",
+                "vdadi": "Bafra Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "055203",
+                "vdadi": "Çarşamba Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "055204",
+                "vdadi": "Terme Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "055205",
+                "vdadi": "Havza Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "055101",
+                "vdadi": "Alaçam Malmüdürlüğü"
+            },
+            {
+                "kod": "055105",
+                "vdadi": "Kavak Malmüdürlüğü"
+            },
+            {
+                "kod": "055106",
+                "vdadi": "Ladik Malmüdürlüğü"
+            },
+            {
+                "kod": "055108",
+                "vdadi": "Vezirköprü Malmüdürlüğü"
+            },
+            {
+                "kod": "055109",
+                "vdadi": "Asarcık Malmüdürlüğü"
+            },
+            {
+                "kod": "055110",
+                "vdadi": "Ondokuz Mayıs Malmüdürlüğü"
+            },
+            {
+                "kod": "055111",
+                "vdadi": "Salıpazarı Malmüdürlüğü"
+            },
+            {
+                "kod": "055112",
+                "vdadi": "Tekkeköy Malmüdürlüğü"
+            },
+            {
+                "kod": "055113",
+                "vdadi": "Ayvacık Malmüdürlüğü"
+            },
+            {
+                "kod": "055114",
+                "vdadi": "Yakakent Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "056": "SİİRT",
+        "vergiDaireleri": [
+            {
+                "kod": "056260",
+                "vdadi": "Siirt Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "056102",
+                "vdadi": "Baykan Malmüdürlüğü"
+            },
+            {
+                "kod": "056104",
+                "vdadi": "Eruh Malmüdürlüğü"
+            },
+            {
+                "kod": "056106",
+                "vdadi": "Kurtalan Malmüdürlüğü"
+            },
+            {
+                "kod": "056107",
+                "vdadi": "Pervari Malmüdürlüğü"
+            },
+            {
+                "kod": "056110",
+                "vdadi": "Şirvan Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "057": "SİNOP",
+        "vergiDaireleri": [
+            {
+                "kod": "057260",
+                "vdadi": "Sinop Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "057261",
+                "vdadi": "Boyabat Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "057101",
+                "vdadi": "Ayancık Malmüdürlüğü"
+            },
+            {
+                "kod": "057103",
+                "vdadi": "Durağan Malmüdürlüğü"
+            },
+            {
+                "kod": "057104",
+                "vdadi": "Erfelek Malmüdürlüğü"
+            },
+            {
+                "kod": "057105",
+                "vdadi": "Gerze Malmüdürlüğü"
+            },
+            {
+                "kod": "057106",
+                "vdadi": "Türkeli Malmüdürlüğü"
+            },
+            {
+                "kod": "057107",
+                "vdadi": "Dikmen Malmüdürlüğü"
+            },
+            {
+                "kod": "057108",
+                "vdadi": "Saraydüzü Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "058": "SİVAS",
+        "vergiDaireleri": [
+            {
+                "kod": "058201",
+                "vdadi": "Kale Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "058280",
+                "vdadi": "Site Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "058260",
+                "vdadi": "Şarkışla Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "058101",
+                "vdadi": "Divriği Malmüdürlüğü"
+            },
+            {
+                "kod": "058102",
+                "vdadi": "Gemerek Malmüdürlüğü"
+            },
+            {
+                "kod": "058103",
+                "vdadi": "Gürün Malmüdürlüğü"
+            },
+            {
+                "kod": "058104",
+                "vdadi": "Hafik Malmüdürlüğü"
+            },
+            {
+                "kod": "058105",
+                "vdadi": "İmranlı Malmüdürlüğü"
+            },
+            {
+                "kod": "058106",
+                "vdadi": "Kangal Malmüdürlüğü"
+            },
+            {
+                "kod": "058107",
+                "vdadi": "Koyulhisar Malmüdürlüğü"
+            },
+            {
+                "kod": "058109",
+                "vdadi": "Suşehri Malmüdürlüğü"
+            },
+            {
+                "kod": "058110",
+                "vdadi": "Yıldızeli Malmüdürlüğü"
+            },
+            {
+                "kod": "058111",
+                "vdadi": "Zara Malmüdürlüğü"
+            },
+            {
+                "kod": "058112",
+                "vdadi": "Akıncılar Malmüdürlüğü"
+            },
+            {
+                "kod": "058113",
+                "vdadi": "Altınyayla Malmüdürlüğü"
+            },
+            {
+                "kod": "058114",
+                "vdadi": "Doğanşar Malmüdürlüğü"
+            },
+            {
+                "kod": "058115",
+                "vdadi": "Gölova Malmüdürlüğü"
+            },
+            {
+                "kod": "058116",
+                "vdadi": "Ulaş Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "059": "TEKİRDAĞ",
+        "vergiDaireleri": [
+            {
+                "kod": "059201",
+                "vdadi": "Süleymanpaşa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "059260",
+                "vdadi": "Namık Kemal Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "059250",
+                "vdadi": "Çorlu İhtisas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "059261",
+                "vdadi": "Çerkezköy Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "059262",
+                "vdadi": "Çorlu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "059263",
+                "vdadi": "Hayrabolu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "059264",
+                "vdadi": "Malkara Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "059265",
+                "vdadi": "Muratlı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "059266",
+                "vdadi": "Şarköy Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "059267",
+                "vdadi": "Kapaklı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "059106",
+                "vdadi": "Saray Malmüdürlüğü"
+            },
+            {
+                "kod": "059108",
+                "vdadi": "Marmaraereğlisi Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "060": "TOKAT",
+        "vergiDaireleri": [
+            {
+                "kod": "060260",
+                "vdadi": "Tokat Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "060261",
+                "vdadi": "Erbaa Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "060262",
+                "vdadi": "Niksar Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "060263",
+                "vdadi": "Turhal Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "060264",
+                "vdadi": "Zile Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "060101",
+                "vdadi": "Almus Malmüdürlüğü"
+            },
+            {
+                "kod": "060102",
+                "vdadi": "Artova Malmüdürlüğü"
+            },
+            {
+                "kod": "060105",
+                "vdadi": "Reşadiye Malmüdürlüğü"
+            },
+            {
+                "kod": "060108",
+                "vdadi": "Pazar Malmüdürlüğü"
+            },
+            {
+                "kod": "060109",
+                "vdadi": "Yeşilyurt Malmüdürlüğü"
+            },
+            {
+                "kod": "060110",
+                "vdadi": "Başçiftlik Malmüdürlüğü"
+            },
+            {
+                "kod": "060111",
+                "vdadi": "Sulusaray Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "061": "TRABZON",
+        "vergiDaireleri": [
+            {
+                "kod": "061201",
+                "vdadi": "Hızırbey Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "061280",
+                "vdadi": "Karadeniz Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "061260",
+                "vdadi": "Akçaabat Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "061261",
+                "vdadi": "Of Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "061262",
+                "vdadi": "Vakfıkebir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "061102",
+                "vdadi": "Araklı Malmüdürlüğü"
+            },
+            {
+                "kod": "061103",
+                "vdadi": "Arsin Malmüdürlüğü"
+            },
+            {
+                "kod": "061104",
+                "vdadi": "Çaykara Malmüdürlüğü"
+            },
+            {
+                "kod": "061105",
+                "vdadi": "Maçka Malmüdürlüğü"
+            },
+            {
+                "kod": "061107",
+                "vdadi": "Sürmene Malmüdürlüğü"
+            },
+            {
+                "kod": "061108",
+                "vdadi": "Tonya Malmüdürlüğü"
+            },
+            {
+                "kod": "061110",
+                "vdadi": "Yomra Malmüdürlüğü"
+            },
+            {
+                "kod": "061111",
+                "vdadi": "Beşikdüzü Malmüdürlüğü"
+            },
+            {
+                "kod": "061112",
+                "vdadi": "Şalpazarı Malmüdürlüğü"
+            },
+            {
+                "kod": "061113",
+                "vdadi": "Çarşıbaşı Malmüdürlüğü"
+            },
+            {
+                "kod": "061114",
+                "vdadi": "Dernekpazarı Malmüdürlüğü"
+            },
+            {
+                "kod": "061115",
+                "vdadi": "Düzköy Malmüdürlüğü"
+            },
+            {
+                "kod": "061116",
+                "vdadi": "Hayrat Malmüdürlüğü"
+            },
+            {
+                "kod": "061117",
+                "vdadi": "Köprübaşı Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "062": "TUNCELİ",
+        "vergiDaireleri": [
+            {
+                "kod": "062260",
+                "vdadi": "Tunceli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "062101",
+                "vdadi": "Çemişgezek Malmüdürlüğü"
+            },
+            {
+                "kod": "062102",
+                "vdadi": "Hozat Malmüdürlüğü"
+            },
+            {
+                "kod": "062103",
+                "vdadi": "Mazgirt Malmüdürlüğü"
+            },
+            {
+                "kod": "062104",
+                "vdadi": "Nazimiye Malmüdürlüğü"
+            },
+            {
+                "kod": "062105",
+                "vdadi": "Ovacık Malmüdürlüğü"
+            },
+            {
+                "kod": "062106",
+                "vdadi": "Pertek Malmüdürlüğü"
+            },
+            {
+                "kod": "062107",
+                "vdadi": "Pülümür Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "063": "ŞANLIURFA",
+        "vergiDaireleri": [
+            {
+                "kod": "063201",
+                "vdadi": "Şehitlik Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "063280",
+                "vdadi": "Topçu Meydanı Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "063281",
+                "vdadi": "Göbeklitepe Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "063260",
+                "vdadi": "Siverek Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "063261",
+                "vdadi": "Viranşehir Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "063262",
+                "vdadi": "Birecik Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "063263",
+                "vdadi": "Suruç  Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "063101",
+                "vdadi": "Akçakale Malmüdürlüğü"
+            },
+            {
+                "kod": "063103",
+                "vdadi": "Bozova Malmüdürlüğü"
+            },
+            {
+                "kod": "063104",
+                "vdadi": "Halfeti Malmüdürlüğü"
+            },
+            {
+                "kod": "063105",
+                "vdadi": "Hilvan Malmüdürlüğü"
+            },
+            {
+                "kod": "063109",
+                "vdadi": "Ceylanpınar Malmüdürlüğü"
+            },
+            {
+                "kod": "063110",
+                "vdadi": "Harran Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "064": "UŞAK",
+        "vergiDaireleri": [
+            {
+                "kod": "064260",
+                "vdadi": "Uşak Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "064261",
+                "vdadi": "Banaz Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "064262",
+                "vdadi": "Eşme Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "064103",
+                "vdadi": "Karahallı Malmüdürlüğü"
+            },
+            {
+                "kod": "064104",
+                "vdadi": "Ulubey Malmüdürlüğü"
+            },
+            {
+                "kod": "064105",
+                "vdadi": "Sivaslı Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "065": "VAN",
+        "vergiDaireleri": [
+            {
+                "kod": "065260",
+                "vdadi": "Van Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "065201",
+                "vdadi": "Erciş Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "065101",
+                "vdadi": "Başkale Malmüdürlüğü"
+            },
+            {
+                "kod": "065102",
+                "vdadi": "Çatak Malmüdürlüğü"
+            },
+            {
+                "kod": "065104",
+                "vdadi": "Gevaş Malmüdürlüğü"
+            },
+            {
+                "kod": "065105",
+                "vdadi": "Gürpınar Malmüdürlüğü"
+            },
+            {
+                "kod": "065106",
+                "vdadi": "Muradiye Malmüdürlüğü"
+            },
+            {
+                "kod": "065107",
+                "vdadi": "Özalp Malmüdürlüğü"
+            },
+            {
+                "kod": "065108",
+                "vdadi": "Bahçesaray Malmüdürlüğü"
+            },
+            {
+                "kod": "065109",
+                "vdadi": "Çaldıran Malmüdürlüğü"
+            },
+            {
+                "kod": "065110",
+                "vdadi": "Edremit Malmüdürlüğü"
+            },
+            {
+                "kod": "065111",
+                "vdadi": "Saray Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "066": "YOZGAT",
+        "vergiDaireleri": [
+            {
+                "kod": "066260",
+                "vdadi": "Yozgat Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "066261",
+                "vdadi": "Boğazlıyan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "066262",
+                "vdadi": "Sorgun Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "066263",
+                "vdadi": "Yerköy Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "066101",
+                "vdadi": "Akdağmadeni Malmüdürlüğü"
+            },
+            {
+                "kod": "066103",
+                "vdadi": "Çayıralan Malmüdürlüğü"
+            },
+            {
+                "kod": "066104",
+                "vdadi": "Çekerek Malmüdürlüğü"
+            },
+            {
+                "kod": "066105",
+                "vdadi": "Sarıkaya Malmüdürlüğü"
+            },
+            {
+                "kod": "066106",
+                "vdadi": "Şefaatli Malmüdürlüğü"
+            },
+            {
+                "kod": "066109",
+                "vdadi": "Aydıncık Malmüdürlüğü"
+            },
+            {
+                "kod": "066110",
+                "vdadi": "Çandır Malmüdürlüğü"
+            },
+            {
+                "kod": "066111",
+                "vdadi": "Kadışehri Malmüdürlüğü"
+            },
+            {
+                "kod": "066112",
+                "vdadi": "Saraykent Malmüdürlüğü"
+            },
+            {
+                "kod": "066113",
+                "vdadi": "Yenifakılı Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "067": "ZONGULDAK",
+        "vergiDaireleri": [
+            {
+                "kod": "067201",
+                "vdadi": "Uzunmehmet Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "067280",
+                "vdadi": "Kara Elmas Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "067261",
+                "vdadi": "Ereğli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "067263",
+                "vdadi": "Çaycuma Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "067264",
+                "vdadi": "Devrek Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "067110",
+                "vdadi": "Alaplı Malmüdürlüğü"
+            },
+            {
+                "kod": "067113",
+                "vdadi": "Gökçebey Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "068": "AKSARAY",
+        "vergiDaireleri": [
+            {
+                "kod": "068201",
+                "vdadi": "Aksaray Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "068101",
+                "vdadi": "Ağaçören Malmüdürlüğü"
+            },
+            {
+                "kod": "068102",
+                "vdadi": "Güzelyurt Malmüdürlüğü"
+            },
+            {
+                "kod": "068103",
+                "vdadi": "Ortaköy Malmüdürlüğü"
+            },
+            {
+                "kod": "068104",
+                "vdadi": "Sarıyahşi Malmüdürlüğü"
+            },
+            {
+                "kod": "068105",
+                "vdadi": "Eskil Malmüdürlüğü"
+            },
+            {
+                "kod": "068106",
+                "vdadi": "Gülağaç Malmüdürlüğü"
+            },
+            {
+                "kod": "068107",
+                "vdadi": "Sultanhanı Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "069": "BAYBURT",
+        "vergiDaireleri": [
+            {
+                "kod": "069201",
+                "vdadi": "Bayburt Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "069101",
+                "vdadi": "Aydıntepe Malmüdürlüğü"
+            },
+            {
+                "kod": "069102",
+                "vdadi": "Demirözü Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "070": "KARAMAN",
+        "vergiDaireleri": [
+            {
+                "kod": "070201",
+                "vdadi": "Karaman Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "070101",
+                "vdadi": "Ayrancı Malmüdürlüğü"
+            },
+            {
+                "kod": "070102",
+                "vdadi": "Ermenek Malmüdürlüğü"
+            },
+            {
+                "kod": "070103",
+                "vdadi": "Kazım Karabekir Malmüdürlüğü"
+            },
+            {
+                "kod": "070104",
+                "vdadi": "Başyayla Malmüdürlüğü"
+            },
+            {
+                "kod": "070105",
+                "vdadi": "Sarıveliler Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "071": "KIRIKKALE",
+        "vergiDaireleri": [
+            {
+                "kod": "071201",
+                "vdadi": "Irmak Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "071202",
+                "vdadi": "Kaletepe Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "071101",
+                "vdadi": "Delice Malmüdürlüğü"
+            },
+            {
+                "kod": "071102",
+                "vdadi": "Keskin Malmüdürlüğü"
+            },
+            {
+                "kod": "071103",
+                "vdadi": "Sulakyurt Malmüdürlüğü"
+            },
+            {
+                "kod": "071105",
+                "vdadi": "Balışeyh Malmüdürlüğü"
+            },
+            {
+                "kod": "071106",
+                "vdadi": "Çelebi Malmüdürlüğü"
+            },
+            {
+                "kod": "071107",
+                "vdadi": "Karakeçili Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "072": "BATMAN",
+        "vergiDaireleri": [
+            {
+                "kod": "072260",
+                "vdadi": "Batman Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "072101",
+                "vdadi": "Beşiri Malmüdürlüğü"
+            },
+            {
+                "kod": "072102",
+                "vdadi": "Gercüş Malmüdürlüğü"
+            },
+            {
+                "kod": "072103",
+                "vdadi": "Hasankeyf Malmüdürlüğü"
+            },
+            {
+                "kod": "072104",
+                "vdadi": "Kozluk Malmüdürlüğü"
+            },
+            {
+                "kod": "072105",
+                "vdadi": "Sason Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "073": "ŞIRNAK",
+        "vergiDaireleri": [
+            {
+                "kod": "073260",
+                "vdadi": "Şırnak Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "073261",
+                "vdadi": "Cizre Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "073262",
+                "vdadi": "Silopi Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "073101",
+                "vdadi": "Beytüşşebap Malmüdürlüğü"
+            },
+            {
+                "kod": "073103",
+                "vdadi": "Güçlükonak Malmüdürlüğü"
+            },
+            {
+                "kod": "073104",
+                "vdadi": "İdil Malmüdürlüğü"
+            },
+            {
+                "kod": "073106",
+                "vdadi": "Uludere Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "074": "BARTIN",
+        "vergiDaireleri": [
+            {
+                "kod": "074260",
+                "vdadi": "Bartın Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "074101",
+                "vdadi": "Amasra Malmüdürlüğü"
+            },
+            {
+                "kod": "074102",
+                "vdadi": "Kurucaşile Malmüdürlüğü"
+            },
+            {
+                "kod": "074103",
+                "vdadi": "Ulus Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "075": "ARDAHAN",
+        "vergiDaireleri": [
+            {
+                "kod": "075201",
+                "vdadi": "Ardahan Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "075101",
+                "vdadi": "Çıldır Malmüdürlüğü"
+            },
+            {
+                "kod": "075102",
+                "vdadi": "Damal Malmüdürlüğü"
+            },
+            {
+                "kod": "075103",
+                "vdadi": "Göle Malmüdürlüğü"
+            },
+            {
+                "kod": "075104",
+                "vdadi": "Hanak Malmüdürlüğü"
+            },
+            {
+                "kod": "075105",
+                "vdadi": "Posof Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "076": "IĞDIR",
+        "vergiDaireleri": [
+            {
+                "kod": "076201",
+                "vdadi": "Iğdır Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "076101",
+                "vdadi": "Aralık Malmüdürlüğü"
+            },
+            {
+                "kod": "076102",
+                "vdadi": "Karakoyunlu Malmüdürlüğü"
+            },
+            {
+                "kod": "076103",
+                "vdadi": "Tuzluca Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "077": "YALOVA",
+        "vergiDaireleri": [
+            {
+                "kod": "077201",
+                "vdadi": "Yalova Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "077101",
+                "vdadi": "Altınova Malmüdürlüğü"
+            },
+            {
+                "kod": "077102",
+                "vdadi": "Armutlu Malmüdürlüğü"
+            },
+            {
+                "kod": "077103",
+                "vdadi": "Çınarcık Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "078": "KARABÜK",
+        "vergiDaireleri": [
+            {
+                "kod": "078201",
+                "vdadi": "Karabük Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "078260",
+                "vdadi": "Safranbolu Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "078101",
+                "vdadi": "Eflani Malmüdürlüğü"
+            },
+            {
+                "kod": "078102",
+                "vdadi": "Eskipazar Malmüdürlüğü"
+            },
+            {
+                "kod": "078103",
+                "vdadi": "Ovacık Malmüdürlüğü"
+            },
+            {
+                "kod": "078105",
+                "vdadi": "Yenice Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "079": "KİLİS",
+        "vergiDaireleri": [
+            {
+                "kod": "079201",
+                "vdadi": "Kilis Vergi Dairesi Müdürlüğü"
+            }
+        ]
+    },
+    {
+        "080": "OSMANİYE",
+        "vergiDaireleri": [
+            {
+                "kod": "080201",
+                "vdadi": "Osmaniye Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "080260",
+                "vdadi": "Kadirli Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "080101",
+                "vdadi": "Bahçe  Malmüdürlüğü"
+            },
+            {
+                "kod": "080102",
+                "vdadi": "Düziçi Malmüdürlüğü"
+            },
+            {
+                "kod": "080104",
+                "vdadi": "Hasanbeyli Malmüdürlüğü"
+            },
+            {
+                "kod": "080105",
+                "vdadi": "Sumbas Malmüdürlüğü"
+            },
+            {
+                "kod": "080106",
+                "vdadi": "Toprakkale Malmüdürlüğü"
+            }
+        ]
+    },
+    {
+        "081": "DÜZCE",
+        "vergiDaireleri": [
+            {
+                "kod": "081260",
+                "vdadi": "Düzce Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "081261",
+                "vdadi": "Akçakoca Vergi Dairesi Müdürlüğü"
+            },
+            {
+                "kod": "081102",
+                "vdadi": "Cumayeri Malmüdürlüğü"
+            },
+            {
+                "kod": "081103",
+                "vdadi": "Çilimli Malmüdürlüğü"
+            },
+            {
+                "kod": "081104",
+                "vdadi": "Gölyaka Malmüdürlüğü"
+            },
+            {
+                "kod": "081105",
+                "vdadi": "Gümüşova Malmüdürlüğü"
+            },
+            {
+                "kod": "081106",
+                "vdadi": "Kaynaşlı Malmüdürlüğü"
+            },
+            {
+                "kod": "081107",
+                "vdadi": "Yığılca Malmüdürlüğü"
+            }
+        ]
+    }
+]

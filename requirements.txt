@@ -1,0 +1,6 @@
+fastapi~=0.103.1
+uvicorn~=0.22.0
+gradio_client
+requests~=2.31.0
+Jinja2
+python-multipart
