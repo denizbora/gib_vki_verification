@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vergi No Doğrulama API</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <form method="post" enctype="application/x-www-form-urlencoded">
+            <div class="form-group">
+                <label for="iller">Şehir:</label>
+                <select required name="iller" id="iller" class="form-control">
+                    <option selected disabled>Seçiniz</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="vergidaireleri">Vergi Dairesi:</label>
+                <select required id="vergidaireleri" name="vergidaireleri" class="form-control" disabled>
+                    <!-- Seçenekler burada dinamik olarak doldurulacak -->
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="inputType">Sorgu Türünü Seçin:</label>
+                <div class="form-check">
+                    <input required name="sorguType" type="radio" class="form-check-input" id="radioTC" value="TC">
+                    <label class="form-check-label" for="radioTC">TC ile Sorgulama</label>
+                </div>
+                <div class="form-check">
+                    <input required name="sorguType" type="radio" class="form-check-input" id="radioVKN" value="VKN">
+                    <label class="form-check-label" for="radioVKN">VKN ile Sorgulama</label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="sorguInput">Sorgulama İçeriği:</label>
+                <input type="text" required class="form-control" id="sorguInput" name="sorguInput" placeholder="Sorgulama metni buraya girin">
+            </div>
+            <div class="form-group" style="display:none">
+                <label for="sorguInput">Sorgulama İçeriği:</label>
+                <input type="text" class="form-control" id="sorguInput1" name="sorguInput1" value=" " placeholder="Sorgulama metni buraya girin">
+            </div>
+            <div class="form-group" style="display:none">
+                <input type="text" class="form-control" id="image_id" name="image_id" placeholder="image_id">
+            </div>
+            <div class="form-group">
+                <label for="sorguInput">Captcha:</label>
+                <img id="captcha_img" alt="captcha">
+                <input type="text" class="form-control" id="captcha" name="captcha" value=" " placeholder="Captcha">
+            </div>
+            <button type="submit" class="btn btn-primary">Sorgula</button>
+        </form>
+    </div>
+
+    <!-- Bootstrap JS ve jQuery (Gerekirse) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="/static/app.js"></script>
+    
+    
+</body>
+

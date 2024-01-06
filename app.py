@@ -108,6 +108,17 @@ async def create_product(tckn1: Annotated[str, Form()], vkn1: Annotated[str, For
 async def get(request: Request):
     return templates.TemplateResponse("index.html",{"request": request})
 
+@app.get("/sorgu")
+async def get(request: Request):
+    return templates.TemplateResponse("sorgu.html",{"request": request})
+
+@app.post("/sorgu")
+async def create_product(image_id: Annotated[str, Form()], tckn1: Annotated[str, Form()], vkn1: Annotated[str, Form()], iller: Annotated[str, Form()], vergidaireleri: Annotated[str, Form()], captcha: Annotated[str, Form()]):
+    token = get_token()
+    verification_response = tax_identification_number_verification(token, image_id, captcha,
+                                                                   tckn1, vkn1, iller, vergidaireleri)
+    return verification_response.json()
+
 
 if __name__ == "__main__":
     uvicorn.run(app=app, host="0.0.0.0", port=8080)
